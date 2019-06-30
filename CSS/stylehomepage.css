@@ -2,3 +2,20 @@
 body{
 	background-image:url("../image/landscape.jpg"); 
 }
+
+h5{
+font-family: 'Fredericka the Great', cursive;
+font-size: 100px;
+color: white;
+}
+
+h4{
+	font-family: 'Berkshire Swash', cursive;
+	font-size: 30px;
+}
+.title-text{
+	margin-top:20%;
+}
+.welcome-text{
+	margin-top: 20%;
+}
