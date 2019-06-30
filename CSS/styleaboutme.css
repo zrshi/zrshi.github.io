@@ -2,3 +2,10 @@
 body{
 	background-image:url("../image/mostar-bridge.jpg");
 }
+
+h5{
+font-family: 'Fredericka the Great', cursive;
+}
+p{
+	font-family: 'Overlock', cursive;
+}
